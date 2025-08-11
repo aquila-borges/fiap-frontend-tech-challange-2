@@ -1,0 +1,9 @@
+[submodule "bytebank-mfe-host"]
+	path = bytebank-mfe-host
+	url = https://github.com/aquila-borges/mfe-host.git
+[submodule "bytebank-react-mfe"]
+	path = bytebank-react-mfe
+	url = https://github.com/aquila-borges/bytebank-mfe.git
+[submodule "bytebank-angular-mfe"]
+	path = bytebank-angular-mfe
+	url = https://github.com/aquila-borges/transaction-mfe.git
